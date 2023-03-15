@@ -1,0 +1,78 @@
+header {
+    background-color: #d31900;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 45px;
+    border: ridge 5px #fff2af;
+    font-style: italic;
+    font-family: gabriola;
+}
+
+body{
+    margin: 3px;
+    padding: 5px;
+    background-color: #f4c790;
+    font-family: Verdana;
+    
+}
+
+nav {
+    background-color:#ff6600;
+    border: outset #fff2af;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding-right: 40px;
+}
+
+nav a:hover {
+    color: #d8d8c0;
+}
+
+#Resumo {
+    color: #000000;
+    font-style: oblique;
+}
+
+#Bandeira {
+    width: 451px;
+    border: ridge 10px darkred;
+}
+
+#Pizza {
+    width:400px;
+    border: ridge 10px darkred;
+}
+
+#Catedral {
+    width: 449.75px;
+    border: ridge 10px darkred;
+   
+}
+
+#div2 {
+    text-align: center;
+    padding: 20px;
+    border: ridge 10px darkred;
+    justify-content: space-evelen;
+}
+
+#div1 {
+    display: flex;
+    padding: 20px;
+}
+
+#Logo {
+    padding-right: 20px;
+}
+
+footer {
+    border: ridge 5px darkred;
+    text-align: center;
+    padding: 5px;
+}
